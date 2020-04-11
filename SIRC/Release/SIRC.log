@@ -1,0 +1,15 @@
+﻿  MainClient.cpp
+  NetworkComponents.cpp
+C:\Users\Zen\source\repos\SIRC\SIRC\NetworkComponents.cpp(88,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zen\source\repos\SIRC\SIRC\NetworkComponents.cpp(109,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zen\source\repos\SIRC\SIRC\NetworkComponents.cpp(133,6): warning C4101: 'iResult': unreferenced local variable
+C:\Users\Zen\source\repos\SIRC\SIRC\NetworkComponents.cpp(164,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zen\source\repos\SIRC\SIRC\NetworkComponents.cpp(204,21): warning C4018: '<': signed/unsigned mismatch
+  RSA.cpp
+C:\Users\Zen\source\repos\SIRC\SIRC\RSA.cpp(106,34): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+  uint128_t.cpp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 400 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SIRC.vcxproj -> C:\Users\Zen\source\repos\SIRC\Release\SIRC.exe

@@ -1,0 +1,7 @@
+﻿  MainClient.cpp
+c:\users\axew1\source\repos\sirc\sirc\mainclient.cpp(24): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\axew1\source\repos\sirc\sirc\mainclient.cpp(28): warning C4018: <: несоответствие типов со знаком и без знака
+  RSA.cpp
+c:\users\axew1\source\repos\sirc\sirc\rsa.cpp(106): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+  Создание кода...
+  SIRC.vcxproj -> C:\Users\axew1\source\repos\SIRC\Debug\SIRC.exe
